@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<NotepadPlus>
+    <InternalTheme name="GitHub Dark Default">
+        <Colors>
+            <Color name="Default Text" color="c9d1d9"/>
+            <Color name="Default Background" color="0d1117"/>
+            <Color name="Selected Text" color="ffffff"/>
+            <Color name="Selected Background" color="444c56"/>
+            <Color name="Caret Color" color="c9d1d9"/>
+            <Color name="Whitespace" color="6e7681"/>
+            <Color name="Bookmark Line" color="0366d6"/>
+            <Color name="Bookmark Line Number" color="ffffff"/>
+        </Colors>
+        <Style name="Default" fore="c9d1d9" back="0d1117"/>
+        <Style name="Comment" fore="6e7681" back="0d1117" italic="true"/>
+        <Style name="Keyword" fore="79c0ff" back="0d1117" bold="true"/>
+        <Style name="Number" fore="d29922" back="0d1117"/>
+        <Style name="String" fore="a5d6ff" back="0d1117"/>
+        <Style name="Character" fore="bc8cff" back="0d1117"/>
+        <Style name="Operator" fore="ff7b72" back="0d1117"/>
+        <Style name="Function" fore="3fb950" back="0d1117" bold="true"/>
+        <Style name="Line Number" fore="444c56" back="0d1117"/>
+        <Style name="Caret Line" back="161b22"/>
+    </InternalTheme>
+</NotepadPlus>
